@@ -1,0 +1,7 @@
+Things to do:
+I have ==== Install Firebase and Firebase storage
+I have ==== Initialize firebase in the app
+I have ==== Change the name of "Sampler platter" to "Don't Panic" 
+
+populate buckets with images/music.
+find recipes for database (foods and aromatherapy)
